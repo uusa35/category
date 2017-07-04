@@ -1,0 +1,13 @@
+{
+    "name": "usama/category",
+    "description": "module for categories",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "usama ahmed",
+            "email": "uusa35@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
